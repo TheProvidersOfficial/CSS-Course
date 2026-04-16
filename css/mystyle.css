@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+
+p{
+    color: blue;   
+}
+ul{
+    color: red;
+}
+.mypara{
+    color: red;
+    background-color: blue;
+}
+p.highlight{
+    background-color: yellow;
+}
+span , strong , em{
+    background-color: aqua;
+}
+.box{
+    background-color: blue;
+    /* multiple lines of css  commen css */
+}
+.warning{
+    color: orange;
+}
+.success{
+    color: green;
+}
+
+#heading{
+    background-color: brown;
+    color: white;   
+}
+
+/* strong{
+    background-color: aqua;
+}
+em{
+    background-color: aqua;
+} */
