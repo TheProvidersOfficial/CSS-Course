@@ -1,0 +1,24 @@
+h1{
+    color: brown;
+}
+h2{
+    color: #6223f7;
+    background-color: #60ff21;
+}
+h3{
+    /* background-color: rgb(214, 105, 22); */
+    background-color: rgba(0, 0, 0,0.9); 
+}
+.box{
+    background-color: rgba(0,0,0,0.5);
+}
+p{
+    /* background-color: hsl(0, 66%, 38%); */
+    background-color: hsla(350, 60%, 60%, 0.5);
+}
+.btn1{
+    background-color: rgb(255, 0, 0);
+}
+.btn2{
+    background-color: rgba(255, 0, 0,0.5);
+}
