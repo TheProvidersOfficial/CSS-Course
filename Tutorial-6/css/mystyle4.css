@@ -1,0 +1,43 @@
+.box{
+    background-color: red;
+    /* width: 300px; */
+    /* width: 40rem; */
+    /* width: 60%; */
+    height: 200px;
+    min-width: 600px;
+    max-width: 1000px;
+}
+.box2{
+    background-color: green;
+    width: 100%;
+    max-width: 1000px;
+}
+nav{
+    background-color: aquamarine;
+    max-width: 300px;
+    width: 100%;
+    min-height: 600px;
+    max-height: 100vh;
+}
+
+.box3{
+    background-color: brown;
+    min-width: 400px;
+    max-width: 1200px;
+}
+img{
+    width: 100%;
+}
+
+.box4{
+    background-color: blueviolet;
+    width: 400px;
+    /* min-height: 200px;
+    max-height: 600px; */
+}
+
+/* .innerbox{
+    background-color: gray;
+    width: 50%;
+    height: 50vh;
+} */
